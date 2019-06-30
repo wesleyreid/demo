@@ -3,17 +3,17 @@
     {
       "id": 1,
       "title": "AA/US -wc-> RAD",
-      "completed": "false"
+      "completed": false
     },
     {
       "id": 2,
       "title": "BB/368 -str-> ERCT",
-      "completed": "false"
+      "completed": false
     },
     {
       "id": 3,
       "title": "CC/InvH -str-> 494",
-      "completed": "false"
+      "completed": false
     }
   ]
 }
