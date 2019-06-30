@@ -1,7 +1,19 @@
 {
   "orders": [
-    { "id": 1, "title": "AA/US -wc-> RAD" },
-    { "id": 2, "title": "BB/368 -str-> ERCT" },
-    { "id": 3, "title": "CC/InvH -str-> 494" }
+    {
+      "id": 1,
+      "title": "AA/US -wc-> RAD",
+      "completed": "false"
+    },
+    {
+      "id": 2,
+      "title": "BB/368 -str-> ERCT",
+      "completed": "false"
+    },
+    {
+      "id": 3,
+      "title": "CC/InvH -str-> 494",
+      "completed": "false"
+    }
   ]
 }
